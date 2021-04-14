@@ -1,6 +1,3 @@
-# NRI Web Development Challenge
-NRI web Development challenge completed. It is simple project in Laravel, HTML, CSS, PHP, JavaScript and MySql etc.
-
 #Set up Application
 2. Open project in your application software visual studio or whatever you are using.
 3. The laravel framework has a few system requirements. Download the Laravel installer using composer.
